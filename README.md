@@ -1,6 +1,6 @@
 # Links-and-interesting-stuff
 
-eBooks:
+## eBooks:
 
 https://devfreebooks.github.io/
 
@@ -13,8 +13,13 @@ https://devfreebooks.github.io/
 
 
 
-JavaScript:
+## JavaScript:
 
 https://just4fun.io/
 
 https://www.hotjs.net/
+
+
+## Angular 2
+
+https://github.com/AngularClass/angular2-webpack-starter
