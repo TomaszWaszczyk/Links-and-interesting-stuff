@@ -27,8 +27,9 @@ https://jsfiddle.net/Boomattache/6j5c8gqj/2/
 
 https://github.com/AngularClass/angular2-webpack-starter
 
+
 ## Data science
 
 https://www.dataquest.io
 
-
+https://www.reddit.com/r/Python/comments/5sel2v/python_for_algorithmic_trading_and_investing
