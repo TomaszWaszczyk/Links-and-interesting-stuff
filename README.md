@@ -21,6 +21,9 @@ https://www.hotjs.net/
 
 https://jsfiddle.net/Boomattache/6j5c8gqj/2/
 
+http://www.polskifrontend.pl/
+
+
 
 
 ### Angular 2
