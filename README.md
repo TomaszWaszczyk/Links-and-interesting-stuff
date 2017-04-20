@@ -36,3 +36,16 @@ https://github.com/AngularClass/angular2-webpack-starter
 https://www.dataquest.io
 
 https://www.reddit.com/r/Python/comments/5sel2v/python_for_algorithmic_trading_and_investing
+
+
+
+## Kultura
+
+### Śląsk, Katowice
+
+http://kosmos.katowice.pl/repertuar/
+
+### Wrocław
+
+
+### Wiedeń
