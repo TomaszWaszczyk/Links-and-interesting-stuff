@@ -37,6 +37,7 @@ https://www.dataquest.io
 
 https://www.reddit.com/r/Python/comments/5sel2v/python_for_algorithmic_trading_and_investing
 
+https://github.com/caffe2/caffe2
 
 
 ## Kultura
