@@ -61,3 +61,13 @@ http://www.arte.tv/pl/
 http://www.deraktionaer.tv/ - livestream
 
 https://app.stitcher.com - podcasts
+
+
+## Historia
+
+### Trading 
+
+http://archives.chicagotribune.com/results/?q=hang+tree+great+depresion
+
+
+
