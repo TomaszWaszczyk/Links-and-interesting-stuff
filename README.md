@@ -23,7 +23,7 @@ https://jsfiddle.net/Boomattache/6j5c8gqj/2/
 
 http://www.polskifrontend.pl/
 
-
+Best practices https://github.com/ryanmcdermott/clean-code-javascript
 
 
 ### Angular 2
