@@ -4,15 +4,6 @@
 
 https://devfreebooks.github.io/
 
-
-
-
-
-
-
-
-
-
 ## JavaScript:
 
 https://just4fun.io/
@@ -75,3 +66,8 @@ http://archives.chicagotribune.com/results/?q=hang+tree+great+depresion
 # Fun !!!!
 
 http://global.meitu.com/
+
+
+## Algorytmika
+
+https://ipsc.ksp.sk/
