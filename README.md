@@ -76,3 +76,7 @@ https://ipsc.ksp.sk/
 ## Frontend
 
 http://www.jqueryrain.com/?qwkpWtnc
+
+# Best practices
+
+https://www.codacy.com
