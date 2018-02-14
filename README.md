@@ -4,6 +4,8 @@
 
 https://devfreebooks.github.io/
 
+https://sci-hub.tw/
+
 ## Online courses
 
 https://medium.freecodecamp.org/here-are-330-ivy-league-courses-you-can-take-online-right-now-for-free-58147bb7adcf
