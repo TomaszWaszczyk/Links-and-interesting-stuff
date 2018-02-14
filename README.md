@@ -86,3 +86,5 @@ http://www.jqueryrain.com/?qwkpWtnc
 # Best practices
 
 https://www.codacy.com
+
+https://www.codewars.com
