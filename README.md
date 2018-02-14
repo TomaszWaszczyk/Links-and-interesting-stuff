@@ -88,3 +88,7 @@ http://www.jqueryrain.com/?qwkpWtnc
 https://www.codacy.com
 
 https://www.codewars.com
+
+# Fancy tools
+
+https://sketchboard.me/NAB21hGKyoUf#/
