@@ -92,3 +92,11 @@ https://www.codewars.com
 # Fancy tools
 
 https://sketchboard.me/NAB21hGKyoUf#/
+
+# Brain hacks
+
+https://www.lumosity.com/
+
+https://www.headspace.com/headspace-meditation-app
+
+
