@@ -30,6 +30,11 @@ Best practices https://github.com/ryanmcdermott/clean-code-javascript
 https://github.com/AngularClass/angular2-webpack-starter
 
 
+### React
+
+https://github.com/markerikson/react-redux-links/blob/master/react-architecture.md
+
+
 ## Data science
 
 https://www.dataquest.io
