@@ -34,6 +34,8 @@ https://github.com/AngularClass/angular2-webpack-starter
 
 https://github.com/markerikson/react-redux-links/blob/master/react-architecture.md
 
+https://github.com/enaqx/awesome-react#graphql-tools
+
 
 ## Data science
 
