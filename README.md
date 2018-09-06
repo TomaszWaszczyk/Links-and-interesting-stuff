@@ -1,5 +1,7 @@
 # Links-and-interesting-stuff
 
+https://github.com/sindresorhus/awesome
+
 ## eBooks:
 
 https://devfreebooks.github.io/
