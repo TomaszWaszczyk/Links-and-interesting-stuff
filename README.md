@@ -16,6 +16,8 @@ https://medium.freecodecamp.org/440-free-online-programming-computer-science-cou
 
 ## JavaScript:
 
+Performance: https://developers.google.com/web/tools/lighthouse/
+
 https://just4fun.io/
 
 https://www.hotjs.net/
