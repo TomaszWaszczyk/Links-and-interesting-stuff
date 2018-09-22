@@ -6,7 +6,9 @@ https://github.com/sindresorhus/awesome
 
 https://devfreebooks.github.io/
 
-https://sci-hub.tw/
+https://sci-hub.tw
+
+https://goalkicker.com/
 
 ## Online courses
 
