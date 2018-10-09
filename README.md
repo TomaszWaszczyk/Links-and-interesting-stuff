@@ -10,6 +10,9 @@ https://sci-hub.tw
 
 https://goalkicker.com/
 
+https://basarat.gitbooks.io/typescript/content/docs/getting-started.html
+
+
 ## Online courses
 
 https://medium.freecodecamp.org/here-are-330-ivy-league-courses-you-can-take-online-right-now-for-free-58147bb7adcf
