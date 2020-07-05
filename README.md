@@ -110,6 +110,7 @@ https://www.codewars.com
 # Fancy tools
 
 https://sketchboard.me/NAB21hGKyoUf#/
+https://awesome-web-tools.web.app
 
 # Brain hacks
 
