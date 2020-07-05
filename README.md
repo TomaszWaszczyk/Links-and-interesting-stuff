@@ -37,7 +37,7 @@ Best practices https://github.com/ryanmcdermott/clean-code-javascript
 ### Angular 2
 
 https://github.com/AngularClass/angular2-webpack-starter
-
+https://cli.angular.io - best starter kit for Angular
 
 ### React
 
@@ -80,7 +80,7 @@ https://app.stitcher.com - podcasts
 
 ## Historia
 
-### Trading 
+### Trading
 
 http://archives.chicagotribune.com/results/?q=hang+tree+great+depresion
 
@@ -110,6 +110,7 @@ https://www.codewars.com
 # Fancy tools
 
 https://sketchboard.me/NAB21hGKyoUf#/
+https://awesome-web-tools.web.app
 
 # Brain hacks
 
